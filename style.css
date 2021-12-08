@@ -1,0 +1,13 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.Title{
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    outline: magenta;
+    outline-style: dotted;
+    width: 500px;
+    text-align: center;
+
+}
